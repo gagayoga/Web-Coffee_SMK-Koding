@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,600;1,700;1,800;1,900&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+}
+body {
+  background-color: #f6ebda;
+}
+nav {
+  background-color: #f6ebda;
+}
+
+.navbar-brand img {
+  height: 50px;
+}
+
+.nav-link .active {
+  color: #f7941d;
+}
+
+.nav-link:active {
+  color: #f7941d;
+}
+
+img .icon-chart {
+  margin-bottom: auto;
+  margin-top: auto;
+  height: 20px;
+}
+
+.boxsearch {
+  margin-right: 10px;
+  margin-bottom: auto;
+  margin-top: auto;
+  height: 40px;
+  background-color: #ffffff;
+  border-radius: 30px;
+  padding: 7px;
+  box-shadow: 2px 3px rgb(67, 67, 67, 0.2);
+}
+
+.input-search {
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.image-home {
+  background-color: #f7941d;
+  border-radius: 100%;
+}
+
+.button-order {
+  color: white;
+  background-color: #2f2105;
+  border-radius: 100px;
+}
+
+.button-order:hover {
+  background-color: #f7941d;
+}
+
+.button-order:hover img {
+  background-color: #2f2105;
+}
+
+.button-order img {
+  margin-left: 10px;
+  border-radius: 100px;
+  padding: 10px;
+  background-color: #f7941d;
+}
+
+.button-more {
+  color: #f7941d;
+  font-size: medium;
+  border-radius: 100px;
+  font-weight: 600;
+  background-color: #ffffff00;
+}
