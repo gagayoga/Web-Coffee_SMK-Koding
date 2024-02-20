@@ -46,11 +46,6 @@ img .icon-chart {
   box-shadow: none !important;
 }
 
-.image-home {
-  background-color: #f7941d;
-  border-radius: 100%;
-}
-
 .button-order {
   color: white;
   background-color: #2f2105;
@@ -78,4 +73,26 @@ img .icon-chart {
   border-radius: 100px;
   font-weight: 600;
   background-color: #ffffff00;
+}
+
+.rekomendasi {
+  background-color: #f9d9aa;
+  border-radius: 5%;
+  padding: 20px;
+}
+
+.icon-chart {
+  border-radius: 100px;
+  padding: 10px;
+  background-color: #f7941d;
+}
+
+.btn-hot {
+  border: 2px solid #2f2105;
+  border-radius: 10px;
+}
+
+.btn-cool {
+  border: 2px solid #f7941d;
+  border-radius: 10px;
 }
